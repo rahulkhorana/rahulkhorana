@@ -1,4 +1,5 @@
 Hello there 👋
+![](https://komarev.com/ghpvc/?username=rahulkhorana)
 
 I am currently an Undergraduate @ UC Berkeley majoring in Computer Science + Applied Mathematics
 
