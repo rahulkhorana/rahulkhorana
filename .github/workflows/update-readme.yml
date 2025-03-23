@@ -26,7 +26,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --local user.name "Rahul Khorana"
-          git config --local user.email "rahul.khorana.2@gmail.com"
+          git config --local user.email "rahul.khorana.email@gmail.com"
           git add README.md
           git commit -m "🤖 Daily ML quote update" || echo "No changes to commit"
           git remote set-url origin https://rahulkhorana:${{ secrets.PERSONAL_TOKEN }}@github.com/rahulkhorana/rahulkhorana.git
