@@ -30,7 +30,7 @@ def update_readme():
             new_lines.append(line)
 
     if not replaced:
-        new_lines.append(f"\n{SECTION_HEADER}\n📌 *{quote}* — updated {timestamp}\n")
+        new_lines.append(f"\n{SECTION_HEADER}\n📌 *{quote}* \n")
 
     with open(README_PATH, "w") as f:
         f.writelines(new_lines)
