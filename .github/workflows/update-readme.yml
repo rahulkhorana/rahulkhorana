@@ -22,11 +22,11 @@ jobs:
         run: python update_readme.py
 
       - name: Commit and push if changed
-        run: |
-          git config user.name "quote-bot"
-          git config user.email "quote-bot@github.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "Daily ML quote update"
-          git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/rahulkhorana/rahulkhorana.git
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          git config user.name "rahulkhorana"
+          git remote set-url origin https://x-access-token:${PERSONAL_TOKEN}@github.com/rahulkhorana/rahulkhorana.git
+          git add README.md
+          git diff --cached --quiet || git commit -m "🤖 Daily ML quote update"
+          git push origin HEAD:main
