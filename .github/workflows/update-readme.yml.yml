@@ -1,0 +1,32 @@
+name: Quote Bot
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Daily at 8AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "quote-bot"
+          git config user.email "quote-bot@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Daily ML quote update"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
