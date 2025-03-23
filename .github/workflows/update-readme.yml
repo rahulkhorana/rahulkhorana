@@ -8,15 +8,12 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write
-      
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,10 +22,12 @@ jobs:
 
       - name: Run update script
         run: python update_readme.py
-
+      
       - name: Commit and push changes
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "Rahul Khorana"
+          git config --local user.email "rahul.khorana.2@gmail.com"
           git add README.md
-          git diff --cached --quiet || (git commit -m "🤖 Daily ML quote update" && git push)
+          git commit -m "🤖 Daily ML quote update" || echo "No changes to commit"
+          git remote set-url origin https://rahulkhorana:${{ secrets.PERSONAL_TOKEN }}@github.com/rahulkhorana/rahulkhorana.git
+          git push origin main
