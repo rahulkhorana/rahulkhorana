@@ -33,4 +33,4 @@ jobs:
           git remote set-url origin https://x-access-token:${PERSONAL_TOKEN}@github.com/rahulkhorana/rahulkhorana.git
           git add README.md
           git diff --cached --quiet || git commit -m "🤖 Daily ML quote update"
-          git push https://x-access-token:${PERSONAL_TOKEN}@github.com/rahulkhorana/rahulkhorana.git HEAD:main
+          git push origin main
