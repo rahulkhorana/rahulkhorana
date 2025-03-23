@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write  # Explicitly grant write permission
+      contents: write
       
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch all history for proper pushing
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
