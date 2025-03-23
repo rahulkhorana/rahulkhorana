@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *The best hyperparameter is more data. – Classic*
+📌 *The best ML models are always in notebooks. – Real devs know*
