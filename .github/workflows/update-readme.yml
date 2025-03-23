@@ -25,7 +25,8 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
-          git config user.name "rahulkhorana"
+          git config --local user.name "Rahul Khorana"
+          git config --local user.email "rahul.khorana.2@gmail.com"
           git remote set-url origin https://x-access-token:${PERSONAL_TOKEN}@github.com/rahulkhorana/rahulkhorana.git
           git add README.md
           git diff --cached --quiet || git commit -m "🤖 Daily ML quote update"
