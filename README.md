@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *The best ML models are always in notebooks. – Real devs know*
+📌 *Don't just fit the data. Understand it. – Wise ML Prof*
