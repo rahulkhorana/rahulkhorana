@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *Don't just fit the data. Understand it. – Wise ML Prof*
+📌 *The bitter lesson: General methods that leverage computation win. – Rich Sutton*
