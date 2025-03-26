@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *The bitter lesson: General methods that leverage computation win. – Rich Sutton*
+📌 *Sometimes it pays to be a little bit dumb. – Yann LeCun (on CNNs)*
