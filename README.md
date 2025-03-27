@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *Sometimes it pays to be a little bit dumb. – Yann LeCun (on CNNs)*
+📌 *GPT-4 is a blurry JPEG of the web. – Yannic Kilcher*
