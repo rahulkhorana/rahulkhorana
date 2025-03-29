@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *The more data you have, the better your guesses. – Nate Silver*
+📌 *The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. – Edsger Dijkstra*
