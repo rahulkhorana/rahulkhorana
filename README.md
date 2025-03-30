@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. – Edsger Dijkstra*
+📌 *The only way to get smarter is by playing a smarter opponent. – Fundamentals of Deep RL*
