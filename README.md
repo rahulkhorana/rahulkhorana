@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *The only way to get smarter is by playing a smarter opponent. – Fundamentals of Deep RL*
+📌 *Never trust a model you don’t understand. – ML interpretability motto*
