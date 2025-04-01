@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *We must ask ourselves: what can we automate? – Geoffrey Hinton*
+📌 *Every model is wrong, but some are useful. – George Box*
