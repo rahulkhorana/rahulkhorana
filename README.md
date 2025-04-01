@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *The bitter lesson: General methods that leverage computation win. – Rich Sutton*
+📌 *AI is whatever hasn't been done yet. – Larry Tesler*
