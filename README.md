@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *Never trust a model you don’t understand. – ML interpretability motto*
+📌 *The bitter lesson: General methods that leverage computation win. – Rich Sutton*
