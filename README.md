@@ -6,4 +6,4 @@
 - 🎓 Google Scholar: [EDHAaSgAAAAJ](https://scholar.google.com/citations?user=EDHAaSgAAAAJ&hl=en)
 
 <!-- daily-quote -->
-📌 *Train your models like you train your dog. – Fast.ai*
+📌 *Research is what I’m doing when I don’t know what I’m doing. – Wernher von Braun*
