@@ -7,7 +7,7 @@
 
 ### 🧪 Research Groups
 
-- 📐 [Monod Lab](https://sites.google.com/view/antheamonod/group) – TDA  
+- 📐 [Monod Lab](https://sites.google.com/view/antheamonod/group)
 - 🧬 [Tanaka Lab](https://www.rtanakagroup.com/people)  
 - 🔬 [Qian Lab](https://qiangrouppage.lbl.gov/people)
 
