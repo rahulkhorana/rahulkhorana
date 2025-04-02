@@ -11,7 +11,7 @@
 - 🧬 [Tanaka Lab](https://www.rtanakagroup.com/people)  
 - 🔬 [Qian Lab](https://qiangrouppage.lbl.gov/people)
 
-### 📚 Academic Profiles
+### 🗨️ Interesting Quote
 
 <!-- daily-quote -->
 📌 *Research is what I’m doing when I don’t know what I’m doing. – Wernher von Braun*
