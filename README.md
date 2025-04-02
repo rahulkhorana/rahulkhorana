@@ -11,7 +11,7 @@
 - 🧬 [Tanaka Lab](https://www.rtanakagroup.com/people)  
 - 🔬 [Qian Lab](https://qiangrouppage.lbl.gov/people)
 
-<hr style="margin: 20px 0; border: none; border-top: 0.5px solid #ccc;" />
+<hr style="margin: 20px 0; border: none; border-top: 0.5px solid #cc;" />
 
 <!-- daily-quote -->
 📌 *Research is what I’m doing when I don’t know what I’m doing. – Wernher von Braun*
