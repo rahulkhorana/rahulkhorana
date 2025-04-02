@@ -1,4 +1,4 @@
 ## 👋 Hello!
 
 <!-- daily-quote -->
-📌 *Every model is wrong, but some are useful. – George Box*
+📌 *Train your models like you train your dog. – Fast.ai*
