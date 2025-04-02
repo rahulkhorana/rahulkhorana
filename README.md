@@ -1,5 +1,9 @@
 ## 👋 Hello!
 
+I'm **Rahul Khorana**, I work at the intersection of **topological data analysis**, **machine learning**, and **computational biology**.
+
+<hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
+
 ### 📚 Academic Profiles
 
 - 🔬 ORCID: [0000-0001-8795-1623](https://orcid.org/0000-0001-8795-1623)  
