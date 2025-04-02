@@ -14,4 +14,4 @@
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *Research is what I’m doing when I don’t know what I’m doing. – Wernher von Braun*
+📌 *Bias in, bias out. – Everyone in AI ethics*
