@@ -18,4 +18,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *It’s not who has the best algorithm, it’s who has the most data. – Unknown*
+📌 *If you torture the data long enough, it will confess to anything. – Ronald Coase*
