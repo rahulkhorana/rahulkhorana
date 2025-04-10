@@ -18,4 +18,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *The first 90% of the code accounts for the first 90% of the development time. The remaining 10% takes the other 90% of the time. – Tom Cargill*
+📌 *A year spent in AI is enough to make one believe in God. – Alan Perlis*
