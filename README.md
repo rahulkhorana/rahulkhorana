@@ -8,6 +8,7 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 
 - 🔬 ORCID: [0000-0001-8795-1623](https://orcid.org/0000-0001-8795-1623)  
 - 🎓 Google Scholar: [EDHAaSgAAAAJ](https://scholar.google.com/citations?user=EDHAaSgAAAAJ&hl=en)
+- 📝 DBLP: [dblp.org](https://dblp.org/pid/386/1952.html)
 
 ### 🧪 Research Groups
 
