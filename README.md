@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *The simplest solution is often the best. – Occam's Razor*
+📌 *Data beats math. Usually. – ML Engineer, probably*
