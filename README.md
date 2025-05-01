@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *The only way to get smarter is by playing a smarter opponent. – Fundamentals of Deep RL*
+📌 *The bitter lesson: General methods that leverage computation win. – Rich Sutton*
