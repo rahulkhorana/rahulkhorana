@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *The bitter lesson: General methods that leverage computation win. – Rich Sutton*
+📌 *An AI system is only as unbiased as its training data. – Common sense*
