@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *Don't just fit the data. Understand it. – Wise ML Prof*
+📌 *The best minds of my generation are thinking about how to make people click ads. – Jeff Hammerbacher*
