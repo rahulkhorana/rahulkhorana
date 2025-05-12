@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *Behind every great model is a great preprocessing pipeline. – Data Scientists everywhere*
+📌 *Correlations are not explanations and besides, they can be as spurious as the high correlation in Finland between foxes and divorces. – David Freedman*
