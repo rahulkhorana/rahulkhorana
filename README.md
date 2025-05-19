@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *Making something learn is easier than making it explain. – AI interpretability folk*
+📌 *Train your models like you train your dog. – Fast.ai*
