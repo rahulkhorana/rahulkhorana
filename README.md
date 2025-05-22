@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *In God we trust. All others must bring data. – W. Edwards Deming*
+📌 *A model is only as good as the data it sees. – Every ML paper ever*
