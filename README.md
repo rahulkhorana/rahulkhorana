@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *The question of whether a computer can think is no more interesting than the question of whether a submarine can swim. – Edsger Dijkstra*
+📌 *If debugging is the process of removing bugs, then programming must be the process of putting them in. – Edsger Dijkstra*
