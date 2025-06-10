@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *If debugging is the process of removing bugs, then programming must be the process of putting them in. – Edsger Dijkstra*
+📌 *Intelligence is the ability to adapt to change. – Stephen Hawking*
