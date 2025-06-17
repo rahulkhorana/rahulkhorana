@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *Success in machine learning comes from intuition, not just math. – Andrej Karpathy*
+📌 *Research is what I’m doing when I don’t know what I’m doing. – Wernher von Braun*
