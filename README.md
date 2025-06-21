@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *It’s not who has the best algorithm, it’s who has the most data. – Unknown*
+📌 *Just because your model is accurate doesn’t mean it’s right. – AI Ethics 101*
