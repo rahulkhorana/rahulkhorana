@@ -2,7 +2,7 @@ name: Quote Bot
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Daily at 8AM UTC
+    - cron: '0 8 1,4,7,10,13,16,19,22,25,28 * *'
   workflow_dispatch:
 
 jobs:
