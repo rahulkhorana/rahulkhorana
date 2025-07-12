@@ -2,7 +2,7 @@
 
 I'm Rahul Khorana. I work at the intersection of topological data analysis, machine learning, and computational biology.
 
-<hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
+<hr style="margin: 4px 0; border: none; border-top: 0.5px solid #c;" />
 
 ### 📚 Academic Profiles
 
@@ -16,7 +16,7 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 - 🧬 [Tanaka Lab](https://www.rtanakagroup.com/people)  
 - 🔬 [Qian Lab](https://qiangrouppage.lbl.gov/people)
 
-<hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
+<hr style="margin: 4px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
 📌 *More layers, more power. – Deep Learning mantra*
