@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, mach
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *GPT-4 is a blurry JPEG of the web. – Yannic Kilcher*
+📌 *Deep Learning is not magic. It’s gradient descent and big matrices. – Twitter ML*
