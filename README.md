@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, and 
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *A year spent in AI is enough to make one believe in God. – Alan Perlis*
+📌 *Behind every great model is a great preprocessing pipeline. – Data Scientists everywhere*
