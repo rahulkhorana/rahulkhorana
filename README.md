@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, and 
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *Don't anthropomorphize AI. It hates that. – Joke*
+📌 *Every dataset is a haunted house. – Abeba Birhane*
