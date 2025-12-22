@@ -19,4 +19,4 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, and 
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
 <!-- daily-quote -->
-📌 *AI is whatever hasn't been done yet. – Larry Tesler*
+📌 *Making something learn is easier than making it explain. – AI interpretability folk*
