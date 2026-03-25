@@ -21,5 +21,7 @@ I'm Rahul Khorana. I work at the intersection of topological data analysis, and 
 <!-- daily-quote -->
 📌 *One man’s signal is another man’s noise. – Nate Silver*
 
+<hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
+
 ### 📬
-reach me at `rahul (dot) khorana (dot) papers (at) gmail (dot) com`
+Reach me at `rahul (dot) khorana (dot) papers (at) gmail (dot) com`
