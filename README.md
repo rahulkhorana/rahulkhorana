@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-I'm Rahul Khorana. I work at the intersection of topological data analysis, and machine learning.
+I'm Rahul Khorana.
 
 <hr style="margin: 5px 0; border: none; border-top: 0.5px solid #c;" />
 
